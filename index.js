@@ -12,7 +12,7 @@
 var markdownpdf = require("markdown-pdf");
 
 
-markdownpdf().from("/Users/shawnbutton/Documents/Programming/projects/training-java/katas/src/main/java/romannumeralcalculator/roman_numeral_calculator.md").to("output.pdf", function () {
+markdownpdf().from("sample/roman_numeral_calculator.md").to("output.pdf", function () {
     console.log("Done")
 });
 

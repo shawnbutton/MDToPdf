@@ -10,6 +10,8 @@ before_install:
 
 install:
   - npm install
+
+script:
   - node index.js
 
 notifications:
