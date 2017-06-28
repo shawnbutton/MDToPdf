@@ -9,10 +9,10 @@
 
 var convert = require("./lib/convert");
 
-var inputName = "sample/roman_numeral_calculator.md";
+var inputFiles = ["sample/roman_numeral_calculator.md", "sample/gilded_rose.md"];
 var outputName = "output.pdf";
 
-convert(inputName, outputName);
+convert(inputFiles, outputName);
 
 
 
