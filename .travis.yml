@@ -8,6 +8,10 @@ cache:
 
 before_install:
 
+install:
+  - npm install
+  - node index.js
+
 notifications:
   email:
     - shawnbutton@gmail.com
