@@ -4,7 +4,7 @@ licensed under Apache License 2.0.
 
 =========================
 
-## How to use
+## How to use!
 
 * exec `./setup.sh`
 	* download dependencies.
