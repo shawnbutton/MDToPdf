@@ -6,9 +6,6 @@
 //https://www.bountysource.com/issues/40330704-typeerror-bad-argument
 //https://github.com/Medium/phantomjs/issues/533
 
-
-
-
 var markdownpdf = require("markdown-pdf");
 
 
