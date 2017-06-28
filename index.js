@@ -7,7 +7,7 @@
 //https://github.com/Medium/phantomjs/issues/533
 
 
-var convert = require("./lib/convert");
+var convert = require("./convert");
 
 var inputFiles = ["sample/roman_numeral_calculator.md", "sample/gilded_rose.md"];
 var outputName = "output.pdf";
